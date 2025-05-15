@@ -2,9 +2,12 @@
 
 ![mockupscreentwo2](https://github.com/user-attachments/assets/dee70bc5-d828-42b4-9103-e66e7c03aa43)
 # exam_screens
-![Twoscreen](https://github.com/user-attachments/assets/1906d25f-05dc-4cb8-9b21-ed5bffd78f63)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1906d25f-05dc-4cb8-9b21-ed5bffd78f63" width="300" alt="First Screen">
+  <img src="https://github.com/user-attachments/assets/dee70bc5-d828-42b4-9103-e66e7c03aa43" width="300" alt="Second Screen">
+</p>
 
-![mockupscreentwo2](https://github.com/user-attachments/assets/dee70bc5-d828-42b4-9103-e66e7c03aa43)
+
 
 A new Flutter project.
 
